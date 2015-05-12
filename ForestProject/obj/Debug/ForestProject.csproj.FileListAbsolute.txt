@@ -1,0 +1,8 @@
+C:\Users\Анна\Desktop\ооп\ForestProject\ForestProject\bin\Debug\ForestProject.exe.config
+C:\Users\Анна\Desktop\ооп\ForestProject\ForestProject\obj\Debug\ForestProject.csprojResolveAssemblyReference.cache
+C:\Users\Анна\Desktop\ооп\ForestProject\ForestProject\bin\Debug\ForestProject.exe
+C:\Users\Анна\Desktop\ооп\ForestProject\ForestProject\bin\Debug\ForestProject.pdb
+C:\Users\Анна\Desktop\ооп\ForestProject\ForestProject\obj\Debug\ForestProject.exe
+C:\Users\Анна\Desktop\ооп\ForestProject\ForestProject\obj\Debug\ForestProject.pdb
+C:\Users\Анна\Desktop\ооп\ForestProject\ForestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Анна\Desktop\ооп\ForestProject\ForestProject\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,1 @@
+{"PlayersCount":1,"FileWithMap":"test.txt","StartAndFinish":{"Item1":{"X":1,"Y":1},"Item2":{"X":7,"Y":5}}}

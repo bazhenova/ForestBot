@@ -1,0 +1,13 @@
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\test1.txt
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\test2.txt
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\test3.txt
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\test4.txt
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\AiTests.dll
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\AiTests.pdb
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\ForestProject.exe
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\ForestProject.pdb
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\obj\Debug\AiTests.csprojResolveAssemblyReference.cache
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\obj\Debug\AiTests.dll
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\obj\Debug\AiTests.pdb
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Анна\Desktop\ооп\ForestProject\AiTests\bin\Debug\Newtonsoft.Json.xml
